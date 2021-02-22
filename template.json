@@ -20,7 +20,7 @@
       "eject": "react-scripts eject",
       "prettier": "prettier \"src/**/*.{js,jsx,css}\"",
       "format": "yarn run prettier --write",
-      "lint": "eslint template/src",
+      "lint": "eslint src",
       "lint:fix": "yarn run lint --fix",
       "validate": "yarn run prettier --list-different && yarn run lint"
     },
@@ -60,7 +60,7 @@
       "eslint-config-prettier": "^7.2.0",
       "eslint-plugin-prettier": "^3.3.1",
       "eslint-plugin-react": "^7.22.0",
-      "husky": "^5.0.9",
+      "husky": "4.2.3",
       "lint-staged": "^10.5.4",
       "prettier": "^2.2.1"
     }
