@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-ddwajda",
+  "author": "Dawid Wajda <ddwajda@gmail.com>",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "ddwajda",
+    "eslint",
+    "react-sweet-state",
+    "react-router",
+    "prettier"
+  ],
+  "description": "React-app with eslint, prettier, styled-components",
+  "main": "template.json",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daw888/cra-template-ddwajda",
+    "directory": "/"
+  }
+}
