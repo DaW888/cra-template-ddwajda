@@ -1,10 +1,16 @@
 # CRA template
 
 > ddwajda (daw888)
-
+> 
 ## Instalation
 
 ### `yarn create react-app --template ddwajda`
+
+> if husky not working follow this commands
+>
+> `yarn remove husky`
+>
+> `yarn add husky@4.2.3 -D`
 
 ## Main packages
 
